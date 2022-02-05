@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-
 function Home() {
     return (
         <div className="App">
